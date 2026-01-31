@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {printf("im naveen");
-return 0;
+return 1;
 }
